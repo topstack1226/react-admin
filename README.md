@@ -5,9 +5,6 @@
 [![NPM Dependencies](https://david-dm.org/jekyll/jekyll-admin.svg)](https://david-dm.org/jekyll/jekyll-admin)
 [![Financial Contributors on Open Collective](https://opencollective.com/jekyll-admin/all/badge.svg?label=financial+contributors)](https://opencollective.com/jekyll-admin)
 
-
-
-
 A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites. The project is divided into two parts. A Ruby-based HTTP API that handles Jekyll and filesystem operations, and a JavaScript-based front end, built on that API.
 
 ![screenshot of Jekyll Admin](/screenshot.png)
